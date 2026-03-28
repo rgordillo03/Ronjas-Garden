@@ -272,7 +272,7 @@ export default function App() {
           <p style={{
             fontSize: 11, color: C.brownLight, marginTop: 16, opacity: 0.5, fontStyle: "italic",
           }}>
-            hint: the day that made the world more beautiful
+            hint: our day
           </p>
         </div>
       </div>
